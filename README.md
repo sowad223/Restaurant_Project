@@ -1,1 +1,1 @@
-this project was developed by me and [!https://github.com/IsmamK/470_restaurant][Isman Khan
+this project was developed by me and [Isman Khan](https://github.com/IsmamK)
